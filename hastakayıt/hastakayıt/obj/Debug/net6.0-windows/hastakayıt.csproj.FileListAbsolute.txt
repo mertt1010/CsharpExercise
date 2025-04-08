@@ -1,0 +1,17 @@
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\bin\Debug\net6.0-windows\hastakayıt.exe
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\bin\Debug\net6.0-windows\hastakayıt.deps.json
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\bin\Debug\net6.0-windows\hastakayıt.runtimeconfig.json
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\bin\Debug\net6.0-windows\hastakayıt.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\bin\Debug\net6.0-windows\hastakayıt.pdb
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.csproj.AssemblyReference.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.Form1.resources
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.csproj.GenerateResource.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.AssemblyInfoInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.AssemblyInfo.cs
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.csproj.CoreCompileInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\refint\hastakayıt.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.pdb
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\hastakayıt.genruntimeconfig.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\hastakayıt\hastakayıt\obj\Debug\net6.0-windows\ref\hastakayıt.dll
